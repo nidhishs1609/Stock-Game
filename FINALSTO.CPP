@@ -1,6 +1,6 @@
 /*
-  Stockgame
-  --------CREATED BY: Atmesh and Nidhish-----------------------
+  STOCKGAME
+  -------- CREATED BY: Nidhish -----------------------
 */
 #include<iostream.h>
 #include<graphics.h>
