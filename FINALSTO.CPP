@@ -1,6 +1,6 @@
 /*
   STOCKGAME
-  -------- CREATED BY: Nidhish -----------------------
+  -------- CREATED BY: Nidhish Suryawanshi-----------------------
 */
 #include<iostream.h>
 #include<graphics.h>
